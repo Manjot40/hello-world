@@ -1,3 +1,2 @@
 # hello-world
-Hello 
-Hi
+My Name is Manjot
